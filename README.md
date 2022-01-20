@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Karol from Poland, I really enjoy learning languages and frameworks like JavaScript and React. Apart from programming I enjoy sports such as basketball and strength training. Currently I'm open for job opportunities.
+### I'm Karol from Poland, I really enjoy learning languages and frameworks like JavaScript and React. Apart from programming I enjoy sports such as basketball and strength training. 
 
 <br />
 <br />
