@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Karol from Poland, I really enjoy learning languages and frameworks like JavaScript and React. Apart from programming I enjoy sports such as basketball and strength training. 
+### I'm Karol and I come from Poland. Long story short I like programming, especially web development. On daily basis I work with JavaScript, NodeJS, and some basic TypeScript. I've got some experiences with Frameworks like Express, React, NextJS and Hugo. I've also used a lot of tools, that I can't even remember - but when I do I'll be back with it. Peace!
 
 <br />
 <br />
