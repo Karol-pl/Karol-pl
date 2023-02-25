@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Karol and I come from Poland. Long story short I like programming, especially web development. On daily basis I work with JavaScript, NodeJS, or TypeScript. I've got experience with frameworks like Express, React, NextJS and Hugo. 
+### I'm Karol, originally I come from Poland but for over a year now I'm living in Brazil. I'm a web developer working (remotely) with various tools and frameworks build around JavaScript.
 
 <br />
 <br />
