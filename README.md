@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Karol, originally I come from Poland but for over a year now I'm living in Brazil. I'm a web developer working (remotely) with various tools and frameworks build around JavaScript.
+###My name's Karol, a 🇵🇱 web dev, working (remotely) and living in 🇧🇷. My work focuses mostly around JavaScript, it's tools and frameworks.
 
 <br />
 <br />
