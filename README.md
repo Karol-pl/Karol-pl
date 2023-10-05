@@ -1,6 +1,6 @@
 # Hi there 👋
 
-###My name's Karol, a 🇵🇱 web dev, working (remotely) and living in 🇧🇷. My work focuses mostly around JavaScript, it's tools and frameworks.
+### My name's Karol, a 🇵🇱 web dev, working (remotely) and living in 🇧🇷. My work focuses mostly around JavaScript, it's tools and frameworks.
 
 <br />
 <br />
